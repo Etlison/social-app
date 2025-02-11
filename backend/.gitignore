@@ -1,0 +1,50 @@
+# Java and Maven related
+/.mvn
+/mvnw
+/mvnw.cmd
+/target/
+*.log
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE and editor files
+/.idea/
+/.vscode/
+/*.iml
+
+# Node.js and frontend related
+/node_modules/
+/.next/
+/dist/
+/build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java files compiled by Maven
+*.class
+*.log
+
+# Docker related
+.docker/
+docker-compose.override.yml
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA specific files
+.idea/
+
+# Eclipse specific files
+*.log
+.project
+.classpath
+
